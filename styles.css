@@ -23,6 +23,12 @@ body {
     font-size: 2rem;
     padding: 50px;
     text-align: right;
+      box-sizing: border-box;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 .buttons {
