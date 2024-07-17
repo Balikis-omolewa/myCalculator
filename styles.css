@@ -16,7 +16,7 @@ body {
     overflow: hidden;
 }
 
-.display input {
+#display {
     width: 100%;
     background-color: #242431;
     color: #fff;
