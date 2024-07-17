@@ -3,16 +3,15 @@
 This project is a simple calculator web application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, modulus, and division. It features a clean and modern interface with interactive buttons for numerical input and operations, including a backspace functionality for error correction. 
 
 <h2>Features:</h2>
-- **Basic Arithmetic Operations**: The calculator supports addition, subtraction, multiplication, and division.
-- **Clear Function**: A button to clear the current input and reset the calculator.
-- **Backspace Function**: Allows users to remove the last digit entered for easy correction.
-- **Responsive Design**: Ensures usability on both desktop and mobile devices.
-- **Footer**: Includes a footer with the developer's name to provide credit.
+- Basic Arithmetic Operations: The calculator supports addition, subtraction, multiplication, and division.<br />
+- Clear Function: A button to clear the current input and reset the calculator.<br />
+- Backspace Function: Allows users to remove the last digit entered for easy correction.<br />
+- Responsive Design: Ensures usability on both desktop and mobile devices. 
 
 <h2>Technologies Used:</h2>
-- **HTML**: For the structure of the calculator.
-- **CSS**: To style the calculator and ensure it looks appealing and user-friendly.
-- **JavaScript**: To handle the functionality of the calculator, including input handling, operation selection, computation, and display updates.
+- HTML: For the structure of the calculator. <br />
+- CSS: To style the calculator and ensure it looks appealing and user-friendly.<br />
+- JavaScript: To handle the functionality of the calculator, including input handling, operation selection, computation, and display updates.
 
 <h2>Approach:</h2>
 The project started with the creation of a simple HTML structure, including a display area and buttons for numbers and operations. CSS was used to style the calculator, ensuring a modern and clean look. JavaScript was then implemented to handle the calculator's logic, enabling users to input numbers, perform calculations, and manage errors with the backspace function. The code was structured to be easily understandable and maintainable.
